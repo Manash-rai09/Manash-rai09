@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manash-rai09
-- 👀 I’m interested in Learning newtechnology
+- 👋 <em>Hi, I’m @Manash-rai09</em>
+- 👀 I’m interested in <strong>Learning new technology</strong>
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Frontend Web Development
 - 📫 How to reach me manashhrai.8501@gmail.com
